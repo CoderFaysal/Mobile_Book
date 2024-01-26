@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Mobile Book</string>
+
+    <!-- Device ID  setTestDeviceIds (search on logcat for device id) -->
+    <string name="device_id">ABCD</string>
+
+
+</resources>
